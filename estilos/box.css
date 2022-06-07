@@ -7,21 +7,21 @@ div {
     overflow: auto;
     padding: 10px;
     border: solid 2px aquamarine;
-    margin: 15px;
     box-sizing: border-box;
 }
 
 #a{
     background-color: rgb(192, 73, 73);
-    float: left;
 }
 
 #b{
     background-color: rgb(73, 151, 138);
     padding: 20px 10px 5px 0px;
-    float: left;
+    position: fixed;
+    top: 0px;
+    left: 0px;
 }
 
 #c{
-    float: right
+    background-color: blue;
 }
