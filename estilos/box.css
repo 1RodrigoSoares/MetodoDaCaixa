@@ -13,9 +13,15 @@ div {
 
 #a{
     background-color: rgb(192, 73, 73);
+    float: left;
 }
 
 #b{
     background-color: rgb(73, 151, 138);
     padding: 20px 10px 5px 0px;
+    float: left;
+}
+
+#c{
+    float: right
 }
